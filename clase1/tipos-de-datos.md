@@ -8,7 +8,7 @@
     int  -2147483648 to 2147483647 | 4294967295  
     bigint 18446744073709551615  
 
-    boolean    |  1 ó  0     --- tiniynt(1)  
+    boolean    |  1 ó 0     --- tiniynt(1)  
 
     float   0.402823466  
     double  0.402823466402823466  
@@ -16,6 +16,7 @@
     decimal  
 
     bit     10
+
 
 ## Alfanuméricos
 
