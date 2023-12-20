@@ -44,3 +44,13 @@
 
 
 ## Sintáxis simplificada ( NO se mecionan las columnas  )
+
+    INSERT INTO nombreTabla   
+      VALUES  
+        ( valorID, valorCol2, valorCol3, valorCol4 );
+
+> Ejemplo práctico:
+
+    INSERT INTO personas    
+      VALUES    
+        ( DEFAULT, 'Álvarez', 'Fernando', 32912457, '2007-11-02' );
